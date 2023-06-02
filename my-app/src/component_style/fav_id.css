@@ -1,0 +1,17 @@
+.roww{
+    background-color: aliceblue;
+    border: solid 1px;
+    margin: 10px;
+    padding: 40px;
+}
+.delbutton{
+    margin-top:20px;
+    margin-left: 10px;
+    background-color: red;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
