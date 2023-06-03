@@ -8,16 +8,20 @@
 </ul>
 
 <h3>The different pages available are:</h3>
-<li>Signup Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/96c69134-b6d7-44a1-95c6-4d7d09ab0a56<br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/0ca1a8f4-6b6c-40df-a744-b99f614e3b2d" width="600" height="300"><br><br>
-<li>Login Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/bc6b4b4f-f2c4-4c23-b68e-692aec1db0df<br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/bc6b4b4f-f2c4-4c23-b68e-692aec1db0df" width="600" height="300"><br><br><br>
-<li>Reset/Forget Password Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/8e34660e-5f9e-45ed-be52-f14126941218<br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/8e34660e-5f9e-45ed-be52-f14126941218" width="600" height="300"><br><br><br>
-<li>Favorite Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/c27d2209-3b0f-47ba-8a30-b47ec2362039<br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/c27d2209-3b0f-47ba-8a30-b47ec2362039" width="600" height="300"><br><br><br>
-<li>View Balance Section: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/c5167d3b-ff75-4ba8-bca9-4887371c4c72<br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/c5167d3b-ff75-4ba8-bca9-4887371c4c72" width="600" height="300"><br><br><br>
+<li>Signup Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/ceb23832-d978-4839-8314-3ac0ac1b5264
+<br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/ceb23832-d978-4839-8314-3ac0ac1b5264" width="600" height="300"><br><br>
+<li>Login Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/64f5b032-e401-420c-83a1-b71b1490c96b <br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/64f5b032-e401-420c-83a1-b71b1490c96b" width="600" height="300"><br><br><br>
+<li>Reset/Forget Password Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/a14b9303-bc71-4557-96e5-3b0a003bac5b
+ <br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/7f558c19-4252-4160-b3fc-8a09b163eb12" width="600" height="300"><br><br><br>
+<li>Favorite Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/629f6a2d-05d8-4f03-801e-384c42dfa526
+<br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/fb160368-9931-4c5a-8fac-9c085e1580d6" width="600" height="300"><br><br><br>
+<li>View Balance Section: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/ed6e3cac-d9df-490f-a4ad-e1c5f1ef3806
+<br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/33a8032c-220d-4fc6-96f8-1eb91f03bf37" width="600" height="300"><br><br><br>
   
 <h3>How to run it?</h3>
 
