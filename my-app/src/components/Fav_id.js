@@ -68,7 +68,6 @@ function Fav_id(props) {
             <div>
               <p>consNo: {consNo}</p>
               <p>consName: {consName}</p>
-              <p>consNo: {consNo}</p>
               <p>consAddress: {consAddress}</p>
               <p>availableBalance: {availableBalance}</p>
               <p>lastRechargeDate: {lastRechargeDate}</p>
