@@ -22,7 +22,6 @@ function Fav() {
       {window.location.replace("/")}
     } 
     catch (err) {
-        dispatch({type:"LOGOUT"})
         setErr(err.response.data);
         console.log(err.response.data)
     }
