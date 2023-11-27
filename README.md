@@ -18,16 +18,16 @@
 <li>Reset/Forget Password Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/a14b9303-bc71-4557-96e5-3b0a003bac5b
  <br><br>
 <img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/7f558c19-4252-4160-b3fc-8a09b163eb12" width="600" height="300"><br><br><br>
-<li>Favorite Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/629f6a2d-05d8-4f03-801e-384c42dfa526
+<li>Favorite Page: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/7d569c4e-696a-46c1-8ae7-e91485e86c49
 <br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/fb160368-9931-4c5a-8fac-9c085e1580d6" width="600" height="300"><br><br><br>
-<li>View Balance Section: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/ed6e3cac-d9df-490f-a4ad-e1c5f1ef3806
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/7d569c4e-696a-46c1-8ae7-e91485e86c49" width="600" height="300"><br><br><br>
+<li>View Balance Section: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/b9e0189a-74c4-4ed8-9e85-e2d3f5291f0a
 <br><br>
-<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/33a8032c-220d-4fc6-96f8-1eb91f03bf37" width="600" height="300"><br><br><br>
-<li>Last 5 recharges. 
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/b9e0189a-74c4-4ed8-9e85-e2d3f5291f0a" width="600" height="300"><br><br><br>
+<li>Last 5 recharges: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/120e89e7-f323-40fd-8833-95b71445d3df 
 <br><br>
 <img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/120e89e7-f323-40fd-8833-95b71445d3df" width="600" height="300"><br><br><br>
-<li>Download bill: Download the monthly bill by selecting month and year. 
+<li>Download the monthly bill by selecting month and year:https://github.com/Samudranil-silenthero/APDCL/assets/64492700/12638d60-b7bd-4b00-b291-25e5c50a07fe 
 <br><br>
 <img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/12638d60-b7bd-4b00-b291-25e5c50a07fe" width="600" height="300"><br><br><br>
   
