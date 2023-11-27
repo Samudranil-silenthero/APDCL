@@ -2,6 +2,8 @@
 <ul>
   <li>People having smart meter (powered by apdcl) can check their remaining balance through this app.
   <li>Can add upto 10 favourites smart meter number for viewing the balance easily. 
+  <li>Can see the last 5 transactions/recharge done. 
+  <li>Can download the monthly bill by selecting month and year. 
   <li>Login, Signup, Forget password features are there.
   <li>Jwt is used for additional security. 
   <li>MongoDB is used as database. Front end is made using ReactJS and CSS. Backend is made using NodeJS and expressJS.
@@ -22,6 +24,12 @@
 <li>View Balance Section: https://github.com/Samudranil-silenthero/APDCL/assets/64492700/ed6e3cac-d9df-490f-a4ad-e1c5f1ef3806
 <br><br>
 <img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/33a8032c-220d-4fc6-96f8-1eb91f03bf37" width="600" height="300"><br><br><br>
+<li>Last 5 recharges. 
+<br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/120e89e7-f323-40fd-8833-95b71445d3df" width="600" height="300"><br><br><br>
+<li>Download bill: Download the monthly bill by selecting month and year. 
+<br><br>
+<img src="https://github.com/Samudranil-silenthero/APDCL/assets/64492700/12638d60-b7bd-4b00-b291-25e5c50a07fe" width="600" height="300"><br><br><br>
   
 <h3>How to run it?</h3>
 
