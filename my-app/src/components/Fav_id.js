@@ -39,20 +39,18 @@ function Fav_id(props) {
     try {
       const fetched_data = await axios.get("https://www.apdclrms.com/cbs/onlinecrm/knowYourSmartBalance/getConsumerDetails?consumerNo="+ cons_no );
       console.log(fetched_data.data)
+      setconsNo(fetched_data.data.consDetails.consNo);
       if(fetched_data.data.msg==="failure") throw Error("Consumer is not a smart Pre-Paid Consumer.");
       setshowdetails(true);
-      setconsNo(fetched_data.data.consDetails.consNo);
       setconsName(fetched_data.data.consDetails.consName);
       setconsAddress(fetched_data.data.consDetails.consAddress);
       setavailableBalance(fetched_data.data.consDetails.availableBalance);
       setlastRechargeDate(fetched_data.data.consDetails.lastRechargeDate);
-      // {window.location.replace("/")}
     } 
     catch (err) {
-        // dispatch({type:"LOGOUT"})
         seterr(true);
-        setErrMsg(err.message);
-        console.log(err.message)
+        setErrMsg("Consumer is not a smart Pre-Paid Consumer. DELETE ME");
+        console.log("Consumer is not a smart Pre-Paid Consumer.")
     }
   }
 
@@ -179,7 +177,8 @@ function Fav_id(props) {
               <p>availableBalance: {availableBalance}</p>
               <p>lastRechargeDate: {lastRechargeDate}</p>
               <button className="delbutton" onClick={() => closeview()}>CLOSE</button>
-            </div>:<div/>
+            </div>:
+            <div>{errMsg}</div>
           }
     </div>
   )
